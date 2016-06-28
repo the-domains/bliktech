@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: BLIKTECH
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8222342
-  brandStrength: 0.579475277569145
-  lightness: 0.7513427
+  saturation: 0.7223416
+  brandStrength: 0.9790547
+  lightness: 1
   brandColors:
-    - '#DAE6F6'
-    - '#2F3032'
-    - '#8EAFDC'
-    - '#C59378'
-    - '#7A7B73'
-  rhythmicContrast: 0.9612775
+    - '#2C2C2B'
+    - '#C0D2EA'
+    - '#6081BD'
+    - '#AF867F'
+    - '#26B0E4'
+  rhythmicContrast: 1
 typography_spectrum: 0.2787325
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9575725
+layout_spectrum: 0
 favicon: null
-name: BLIKTECH
+analytics:
+  twitter: null
+  google: null
+  facebook: null
