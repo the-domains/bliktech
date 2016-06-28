@@ -1,0 +1,28 @@
+name: BLIKTECH
+favicon: null
+layout_spectrum: 0.9208037776406854
+typography_spectrum: 0.006734318332746625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.579475277569145
+  lightness: 0.8058045194484293
+  saturation: 0.7585056459065527
+  rhythmicContrast: 0.961277529830113
+purpose: []
