@@ -1,5 +1,7 @@
-favicon: null
-name: BLIKTECH
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +20,21 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.7585056459065527
+  saturation: 0.8222342
   brandStrength: 0.579475277569145
-  lightness: 0.8058045194484293
+  lightness: 0.7513427
   brandColors:
     - '#DAE6F6'
     - '#2F3032'
     - '#8EAFDC'
     - '#C59378'
     - '#7A7B73'
-  rhythmicContrast: 0.961277529830113
-typography_spectrum: 0.006734318332746625
+  rhythmicContrast: 0.9612775
+typography_spectrum: 0.2787325
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9208037776406854
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.9575725
+favicon: null
+name: BLIKTECH
