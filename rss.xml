@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BLIKTECH]]></title>
+        <description><![CDATA[BLIKTECH]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 22:35:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zinkprofiler på mål]]></title>
+            <description><![CDATA[<article><h1>Zinkprofiler på mål</h1><p>150 m sålbænke tildannet i 6 forskellige længder mellem 1800 og 3100 mm lige til at montere. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/571f0785-5487-4fc4-81e6-cf85706fec0c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/571f0785-5487-4fc4-81e6-cf85706fec0c.jpg</link>
+            <guid isPermaLink="false">46ce99a8-ac0f-44c8-89c0-8905d573c792</guid>
+            <pubDate>Tue, 28 Jun 2016 22:35:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
